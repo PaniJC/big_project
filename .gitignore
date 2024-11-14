@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Entorno virtual
+venv/
+.env
+*.env
+
+# Logs y bases de datos
+*.log
+*.sqlite3
+
+# Dependencias
+Pipfile
+Pipfile.lock
+poetry.lock
+*.egg-info/
+.eggs/
+
+# IDEs y editores de texto
+.idea/
+.vscode/
+
+# Distribución
+build/
+dist/
